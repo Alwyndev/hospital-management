@@ -1,5 +1,3 @@
-
-   
 from datetime import datetime, date
 from random import choice as r_c
 import mysql.connector as my
